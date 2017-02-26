@@ -1,0 +1,66 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: YuGothic, "游ゴシック", "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif;
+  background-color:pink;
+  font-size: 14px;
+  text-align:center;
+}
+
+nav {
+  margin: 0 0 30px 0;
+  padding: 10px 0;
+  text-align: center;
+  background-color: #fff;
+}
+
+nav ul {
+  margin: 0 10px;
+  padding: 0;
+}
+
+nav ul li {
+  margin: 0 20px;
+  display: inline-block;
+}
+
+nav ul li a {
+  padding: 15px 10px;
+  text-decoration: none;
+  color:pink;
+  font-weight: bold;
+}
+
+nav ul li a.selected {
+  color:#DC7173;
+}
+
+h1{
+	padding-top:10px;
+  text-align:center;
+  letter-spacing:0.15em;
+}
+
+.container p{
+	margin-top:50px;
+}
+
+.container a{
+	text-decoration:none;
+}
+
+.container img{
+	max-width:520px
+}
+
+footer{
+	color:#FFF;
+	padding-top:50px;
+	padding-bottom:20px;
+}
