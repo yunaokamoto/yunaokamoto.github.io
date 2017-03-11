@@ -50,6 +50,7 @@ h1{
 .container p{
 	margin-top:100px;
 	margin-bottom:200px;
+	padding-top:100px;
 }
 
 .container a{
