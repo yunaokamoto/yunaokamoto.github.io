@@ -47,7 +47,7 @@ h1{
   letter-spacing:0.15em;
 }
 
-.container p{
+container{
 	padding-top:100px;
 	padding-bottom:200px;
 }
