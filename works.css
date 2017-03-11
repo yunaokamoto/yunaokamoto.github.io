@@ -47,14 +47,9 @@ h1{
   letter-spacing:0.15em;
 }
 
-.container p{
+.container{
 	margin-top:100px;
 	margin-bottom:200px;
-	padding-top:100px;
-}
-
-.container a{
-	text-decoration:none;
 }
 
 
